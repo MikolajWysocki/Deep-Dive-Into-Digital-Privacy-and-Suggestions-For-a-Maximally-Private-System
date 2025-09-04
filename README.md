@@ -1,4 +1,4 @@
 https://mikolajwysocki.github.io/Privacy_System_Paper.pdf
 
 
-A theoretically maximally confidential system, accounting for ease of use, partnered by a high-level overview of currently present confidentiality vectors.
+A deep dive into privacy in the digital environment, focusing on key vectors of privacy loss such as network usage, operating systems, and payment methods, and designing a confidential system that balances security with ease of use.
